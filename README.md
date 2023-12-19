@@ -1,5 +1,12 @@
 # PID
 
+In the folder, there are 10 Matlab files that enable you to reproduce results of the paper:
+- download Matla files (*.m);
+- install Matlab software (R2021 and R2022 software have been tested, but other versions could be used). Note that no specific toolbox is required and you can run the code with the "basic" version;
+- click on the "Run" button.
+
+See hereafter if you want to reproduce resuklts of a specific figure.
+
 Figure 1 has been done with FinalCodeMSY1D.m
 
 Figure 2 has been done with FinalCodeMSY2D.m
